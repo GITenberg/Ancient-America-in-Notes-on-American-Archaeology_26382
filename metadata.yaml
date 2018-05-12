@@ -1,0 +1,30 @@
+_repo: Ancient-America-in-Notes-on-American-Archaeology_26382
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baldwin, John D. (John Denison)
+    alias: Baldwin, John Denison
+    birthdate: 1809
+    deathdate: 1883
+    gutenberg_agent_id: '31964'
+    url: http://www.gutenberg.org/2009/agents/31964
+    wikipedia: http://en.wikipedia.org/wiki/John_Denison_Baldwin
+description: ''
+gutenberg_issued: '2008-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration -- Pre-Columbian'
+- !lcc 'E011'
+- !lcsh 'America -- Antiquities'
+- !lcsh 'Indians -- Antiquities'
+title: Ancient America, in Notes on American Archaeology
+url: http://www.gutenberg.org/ebooks/26382
