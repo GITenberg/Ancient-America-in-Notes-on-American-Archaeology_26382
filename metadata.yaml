@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31964
     wikipedia: http://en.wikipedia.org/wiki/John_Denison_Baldwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26382#Ancient-America-in-Notes-on-American-Archaeology
 gutenberg_issued: '2008-08-21'
 gutenberg_type: Text
 identifiers:
